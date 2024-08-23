@@ -88,6 +88,16 @@ Feel free to include any additional details or explanations as needed for your p
 
 ## Screenshots📸
 
+![page1MERN](https://github.com/user-attachments/assets/9bd279c4-5964-41f1-bc49-760f8c0e3ef1)
+
+![Page2MERN](https://github.com/user-attachments/assets/7fa79f6a-c787-4a9e-96f6-97f2cdd1f71f)
+![page3MERN](https://github.com/user-attachments/assets/543b0fb6-8622-4bc9-9d2e-e300cc9af342)
+![page4MERN](https://github.com/user-attachments/assets/5f498fe8-8d7c-4098-a5c6-2a1d0194baa9)
+![page5MERN](https://github.com/user-attachments/assets/fc435b53-f9ef-4e58-83d0-be01da4ee006)
+![page6MERN](https://github.com/user-attachments/assets/6e14bf2a-087e-40e0-a73e-7d28112c5366)
+![page7MERN](https://github.com/user-attachments/assets/35a3f560-16fa-4dc6-8bb2-04ff44fbdedd)
+
+
 
 
 
